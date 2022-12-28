@@ -1,42 +1,23 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "درخواست پروژه"
+author: "حمیدرضا"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+انجام پروژه مهندسی برق با گروه تخصصی متلبی##
 
-## Getting Started
+انجام پروژه مهندسی برق , توسط اساتید و مجریان متعهد و مجرب سایت متلبی
+انجام پروژه های مهندسی برق با قیمت مناسب و در کمترین زمان قابل انجام است.
+اگر نیاز به شبیه سازی و انجام پروژه در حیطه مباحث مهندسی برق دارید, سایت متلبی مرجع اصلی ارائه خدمات مهندسی برق می باشد.
+انجام پروژه های مهندسی برق با نرم افزاری های تخصصی مانند انجام پروژه متلب و انجام پروژه گمز و…
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+چرا سایت متلبی برای انجام پروژه های مهندسی برق مناسب است؟##
 
-## Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-## Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
-
-## More Jekyll!
-
-### Millennial
-
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
-
-### Portfolio Jekyll Theme
-
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
-
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+تیم تخصصی متلبی انجام پروژه مهندسی برق را با آموزش به دو صورت آموزش در قالب ورد و آموزش در قالب ویدیو به شما ارائه می کند.
+متلبی حامی مشتریان عزیز خود است و بر همین اساس حق الزحمه استادکار را بعد از دو روز و اگر پروژه انجام شده مورد تایید قرار گرفت به آن استادکار پرداخت می کند, این یعنی تضمین واقعی هزینه شما.
+همچنین جهت انجام پروژه مهندسی برق شما درگاه آنلاین پرداخت را جهت راحتی و سهولت روند کار راه اندازی کرده است.
+با در نظر گرفتن شرایط و قوانین کافی حقوق شما را در انجام پروژه های مهندسی برق بخوبی حفظ کرده ایم و تمامی قرارداد مابین را از طریق مکاتبه ایمیلی انجام میدهیم تا روند انجام پروژه بخوبی قابل پیگیری حقوقی باشد.
+استادکار های سایت متلبی از فیلترهای سختی جهت همکاری با سایت گذر کرده اند و این اطمینان را به شما می دهیم که برجسته ترین و فرهیخته ترین افراد را در تیم تخصصی متلبی جای داده ایم.

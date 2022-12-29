@@ -9,8 +9,8 @@ title: تماس با ما
 
 تلفن پشتیبانی:
 
-۰51 - 35026475
+0513502475
 
 ایمیل:
 
-matlabprojectsonline@gamil.comس
+matlabprojectsonline@gamil.com

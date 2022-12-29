@@ -24,8 +24,6 @@ themename:              'لاگارانژ'
 title:		           'پروژه‌های مهندسی'
 description:	       'در سریعترین زمان'
 author:              'Paul Le'
-translator:          'امید شهسوارزاده'
-
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
